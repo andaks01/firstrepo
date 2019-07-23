@@ -1,0 +1,10 @@
+Jul 23 14:28:01 ip-172-31-2-4 systemd: Created slice User Slice of root.
+Jul 23 14:28:01 ip-172-31-2-4 systemd: Starting User Slice of root.
+Jul 23 14:28:01 ip-172-31-2-4 systemd: Started Session 1448576 of user root.
+Jul 23 14:28:01 ip-172-31-2-4 systemd: Starting Session 1448576 of user root.
+Jul 23 14:28:01 ip-172-31-2-4 systemd: Started Session 1448577 of user root.
+Jul 23 14:28:01 ip-172-31-2-4 systemd: Starting Session 1448577 of user root.
+Jul 23 14:28:01 ip-172-31-2-4 systemd: Started Session 1448578 of user root.
+Jul 23 14:28:01 ip-172-31-2-4 systemd: Starting Session 1448578 of user root.
+Jul 23 14:28:04 ip-172-31-2-4 systemd: Removed slice User Slice of root.
+Jul 23 14:28:04 ip-172-31-2-4 systemd: Stopping User Slice of root.
